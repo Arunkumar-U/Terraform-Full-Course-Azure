@@ -1,4 +1,4 @@
-# Notes and diagrams of Day01 Video
+# Notes and diagrams of Day01 Video arun
 
 ## What is Infra as a Code
 - Provisioning your infra through code
